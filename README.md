@@ -9,7 +9,7 @@
 📫 Reach me: raiyanrahnuma1@email.com  
 💼 LinkedIn: https://www.linkedin.com/in/raiyan-rahnuma-7518311a0?
 
-![Raiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rynnnnn01&show_icons=true&theme=tokyonight)## 
+![Raiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raiyanhub&show_icons=true&theme=tokyonight)## 
 
 <!--
 **raiyanhub/raiyanhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
